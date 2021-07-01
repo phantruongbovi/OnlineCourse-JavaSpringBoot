@@ -15,4 +15,5 @@
   CREATE DATABASE $name (ex: name = student)
   GRANT ALL PROVOLEGES ON DATABASE "student" TO postgres;
   \c student //connecting to database student
+  ALTER USER postgres PASSWORD '123456';
   ```
