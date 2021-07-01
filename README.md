@@ -22,3 +22,8 @@
   \c student //connecting to database student
   ALTER USER postgres PASSWORD '123456';
   ```
+2. How to run application
+```
+cd target
+java -jar demo-0.0.1-SNAPSHOT.jar
+```
