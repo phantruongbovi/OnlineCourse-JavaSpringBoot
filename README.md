@@ -1,9 +1,9 @@
 # OnlineCourse-JavaSpringBoot
 
 1. How to install postgres and create new database
-1.1 Install postgresql
+  - Install postgresql
   https://phoenixnap.com/kb/how-to-install-postgresql-on-ubuntu
-1.2 Create new database
+  - Create new database
   Open postgres cmd: 
   '''
   sudo su - postgres
